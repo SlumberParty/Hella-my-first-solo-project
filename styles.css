@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri|Lobster');
+
+body {
+    font-family: Hind+Siliguri;
+    color: #DB2556;
+    background-color: #01B09F;
+}
+
+h1, h2, h3 {
+    font-family: Lobster;
+    color: #EA552D;
+}
+
+#my-image {
+    width: 200px;
+    height: auto;
+}
+
+#another-image {
+    width: 200px;
+    height: auto;
+}

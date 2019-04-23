@@ -1,2 +1,3 @@
-# Hella-my-first-solo-project
-About moi
+#My First Solo Project
+
+About moi.
