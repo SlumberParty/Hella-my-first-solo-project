@@ -12,12 +12,37 @@ h1, h2, h3 {
     color: #EA552D;
 }
 
-#my-image {
+#nocook {
     width: 200px;
     height: auto;
 }
 
-#another-image {
+#sleepybaby {
     width: 200px;
     height: auto;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    border: 2px hotpink;
+    height: 30px;
+    width: 300px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #EA552D;
+    color: white;
+    font-family: Lobster;
+    font-size: 1.2em;
+    height: 30px;
+    width: 150px;
+}
+
+#quiz-results {
+    font-size: 2em;
 }
