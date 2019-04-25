@@ -8,7 +8,9 @@ const questionFive = document.getElementById('question-five');
 const submitButton = document.getElementById('submit-button');
 const quizResult = document.getElementById('quiz-result');
 
-submitButton.addEventListener('click', () => {
+submitButton.addEventListener('click', (event) => {
+    event.preventDefault();
+    
     const questionOneA = questionOne.value;
     const questionTwoA = questionTwo.value;
     const questionThreeA = questionThree.value;

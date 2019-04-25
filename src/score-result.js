@@ -30,7 +30,7 @@ function scoreResult(questionOne, questionTwo, questionThree, questionFour, ques
         score += 1;
     }
 
-   return score;
+    return score;
 
 }
 export default scoreResult;

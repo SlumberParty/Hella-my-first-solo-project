@@ -12,13 +12,15 @@ test('all answers are wrong', (assert) => {
     const questionFive = 'whyyy';
     const expected = 0;
 
-    //Act
-    // Call the function you're testing and set the result to a const
-    const result = scoreResult(questionOne, questionTwo, questionThree, questionFour, questionFive);
-    
-    //Assert
-    assert.equal(result, expected);
 });
+
+//     //Act
+//     // Call the function you're testing and set the result to a const
+//     const result = scoreResult(questionOne, questionTwo, questionThree, questionFour, questionFive);
+    
+//     //Assert
+//     assert.equal(result, expected);
+// });
 
 //  test('all answers right', (assert) => {
 //     //Arrange
