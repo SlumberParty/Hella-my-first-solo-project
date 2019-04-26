@@ -4,21 +4,23 @@
 body {
     font-family: Hind+Siliguri;
     color: #DB2556;
-    background-color: #01B09F;
+    background-color: rgb(142, 180, 250);
+    font-size: 1.3em;
 }
 
 h1, h2, h3 {
     font-family: Lobster;
     color: #EA552D;
+    font-size: 3em;
 }
 
 #nocook {
-    width: 200px;
+    width: 300px;
     height: auto;
 }
 
-#sleepybaby {
-    width: 200px;
+#sleepypanda {
+    width: 300px;
     height: auto;
 }
 
