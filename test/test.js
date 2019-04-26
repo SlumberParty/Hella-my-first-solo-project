@@ -1,5 +1,4 @@
-import scoreResult from '../index.js';
-
+import scoreResult from './index.js';
 const test = QUnit.test;
 
 test('all answers are wrong', (assert) => {
