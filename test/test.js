@@ -36,19 +36,19 @@ test('all answers right', (assert) => {
     assert.equal(result, expected);
 });
 
-test('does lowercase work correctly', (assert) => {
-    //Arrange
-    const questionOne = 'NIght';
-    const questionTwo = 'rainbOWs';
-    const questionThree = 'oNe';
-    const questionFour = 'FRuit';
-    const questionFive = 'a lOt';
-    const expected = 5;
+// test('does lowercase work correctly', (assert) => {
+//     //Arrange
+//     const questionOne = 'NIght';
+//     const questionTwo = 'rainbOWs';
+//     const questionThree = 'oNe';
+//     const questionFour = 'FRuit';
+//     const questionFive = 'a lOt';
+//     const expected = 5;
 
-    //Act
-    const result = scoreResult(questionOne, questionTwo, questionThree, questionFour, questionFive);
+//     //Act
+//     const result = scoreResult(questionOne, questionTwo, questionThree, questionFour, questionFive);
     
-    //Assert
-    assert.equal(result, expected);
-});
+//     //Assert
+//     assert.equal(result, expected);
+// });
 
