@@ -39,7 +39,7 @@ test('all answers right', (assert) => {
 test('does lowercase work correctly', (assert) => {
     //Arrange
     const questionOne = 'APples';
-    const questionTwo = 'MentAL heaALTH';
+    const questionTwo = 'MentAL heALTH';
     const questionThree = 'sLoth';
     const questionFour = 'nO';
     const questionFive = 'Yes';
