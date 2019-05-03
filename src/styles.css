@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri|Lobster');
+
+body {
+    font-family: Hind+Siliguri;
+    color: #DB2556;
+    background-color: rgb(142, 180, 250);
+    font-size: 1.3em;
+}
+
+h1, h2, h3 {
+    font-family: Lobster;
+    color: #EA552D;
+    font-size: 3em;
+}
+
+#nocook {
+    width: 300px;
+    height: auto;
+}
+
+#sleepypanda {
+    width: 300px;
+    height: auto;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    border: 2px hotpink;
+    height: 30px;
+    width: 300px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #EA552D;
+    color: white;
+    font-family: Lobster;
+    font-size: 1.2em;
+    height: 30px;
+    width: 150px;
+}
+
+#quiz-results {
+    font-size: 2em;
+}
